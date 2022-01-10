@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: user-service
+
+
+eureka:
+  instance:
+    hostname: localhost

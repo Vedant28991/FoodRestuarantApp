@@ -1,0 +1,17 @@
+*****************************************************
+Resister Employee -
+*****************************************************
+{
+    "username":"Vishal",
+    "email":"vishal@gmail.com",
+    "password":"Vishal@123",
+    "phoneNo":"1234567891",
+    "address":"Aurangabad"
+}
+*****************************************************
+Login employee-
+*****************************************************
+{
+    "usernameOrEmail":"Vishal",
+    "password":"Vishal@123"
+}
